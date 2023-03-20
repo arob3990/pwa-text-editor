@@ -1,3 +1,4 @@
+<img width="1423" alt="PWA Image" src="https://user-images.githubusercontent.com/115756254/226453404-798e5b81-3cb8-47d9-8ed1-fc72840fbf95.png">
 # PWA Text Editor
 
 ## Table of Contents
@@ -15,6 +16,8 @@ To use the application, navigate to: https://arob3990-pwa-text-editor.herokuapp.
 Once the page is loaded, you can download the app to your desktop by clicking the "Install" button found on the page header
 
 ## Images
+<img width="1423" alt="PWA Image" src="https://user-images.githubusercontent.com/115756254/226453404-798e5b81-3cb8-47d9-8ed1-fc72840fbf95.png">
+
 
 ## Questions
 My Github Profile: [arob3990](https://github.com/arob3990)
