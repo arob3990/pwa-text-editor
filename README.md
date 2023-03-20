@@ -1,4 +1,3 @@
-<img width="1423" alt="PWA Image" src="https://user-images.githubusercontent.com/115756254/226453404-798e5b81-3cb8-47d9-8ed1-fc72840fbf95.png">
 # PWA Text Editor
 
 ## Table of Contents
